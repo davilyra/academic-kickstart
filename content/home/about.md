@@ -13,24 +13,24 @@ weight = 5
     "Cell and Tissue Engineering",
     "Cellular Metabolism",
     "Cardiovascular Diseases",
-    "Clinical applications of technology and medical technology"
+    "Clinical Applications of Technology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Biomedical Engineering"
   institution = "University of Southern California"
-  year = "2015 to Present"
+  year = "*2015 to Present*"
 
 [[education.courses]]
   course = "MEng in Electrical Engineering"
   institution = "University of Southern California"
-  year = 2017
+  year = "*2017*
 
 [[education.courses]]
   course = "BSc in Electrical Engineering"
   institution = "University of Brasilia (Brasilia, Brazil)"
-  year = 2012
+  year = "*2012*"
  
 +++
 
