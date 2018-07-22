@@ -1,5 +1,5 @@
 +++
-title = "International Awards"
+title = "Academic"
 
 math = false
 highlight = false
