@@ -26,7 +26,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In Revista Ingeniería"
-publication_short = "In Int Bio"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "The reconstruction of magnetic resonance imaging (MRI) data can be a computationally demanding task. Signal-to-noise ratio is also a concern, especially in high-resolution imaging. Data compression may be useful not only for reducing reconstruction complexity and memory requirements, but also for reducing noise, as it is capable of eliminating spurious components.
