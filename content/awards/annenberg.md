@@ -41,6 +41,6 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://graduateschool.usc.edu/fellowships/prospective-PhD-students/"
 
 +++
