@@ -20,20 +20,20 @@ weight = 5
 [[education.courses]]
   course = "PhD in Biomedical Engineering"
   institution = "University of Southern California"
-  year = "*2015 to Present*"
+  year = "2015 to Present"
 
 [[education.courses]]
   course = "MEng in Electrical Engineering"
   institution = "University of Southern California"
-  year = "*2017*"
+  year = "2017"
 
 [[education.courses]]
   course = "BSc in Electrical Engineering"
   institution = "University of Brasilia (Brasilia, Brazil)"
-  year = "*2012*"
+  year = "2012"
  
 +++
 
 # Biography
 
-My name is Davi Lyra-Leite, I am a PhD candidate at the [Department of Biomedical Engineering](http://bme.usc.edu) at the University of Southern California and researcher with the Laboratory for Living Systems Engineering, working under Prof. Megan McCain, PhD. I am also a Health, Technology and Engineering student, a program that aims to foster collaboration between professionals between healthcare related fields and professionals to promote innovation. Lastly, I am a senior researcher at Instituto Mercado Popular, a Brazilian think tank, where I work on healthcare policy.
+My name is Davi Lyra-Leite, I am a PhD candidate at the [Department of Biomedical Engineering](http://bme.usc.edu) at the [University of Southern California](http://usc.edu) and researcher with the [Laboratory for Living Systems Engineering](http://livingsystemsengineering.usc.edu), working under Prof. [Megan McCain, PhD](https://viterbi.usc.edu/directory/faculty/McCain/Megan). I am also a [Health, Technology and Engineering](http://hte.usc.edu) student, a program that aims to foster collaboration between professionals between healthcare related fields and professionals to promote innovation. Lastly, I am a senior researcher at [Instituto Mercado Popular](http://mercadopopular.org), a Brazilian think tank, where I work on healthcare policy.
