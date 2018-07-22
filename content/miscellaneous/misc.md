@@ -1,5 +1,5 @@
 +++
-title = "International Awards"
+title = "Politics and Policy"
 
 math = false
 highlight = false
@@ -8,11 +8,11 @@ highlight = false
 date = "2012-08-01"
 
 +++
-**International Society for Magnetic Resonance in Medicine**
+Op-eds for Brazilian newspapers:
 
-  * Educational Stipend, 2013.
-  * Educational Stipend, 2012.
+  * [O que mudou e o que não mudou de fato com Trump na presidência](http://www.gazetadopovo.com.br/ideias/o-que-mudou-e-o-que-nao-mudou-de-fato-com-trump-na-presidencia-5ozilv7vn3ql9pnhko231h16x)
+  * [Marina Silva usa informações erradas ao protestar contra o fim da Renca](https://www.poder360.com.br/opiniao/brasil/marina-silva-usa-informacoes-erradas-ao-protestar-contra-o-fim-da-renca/)
 
-**Institute of Electrical and Electronics Engineers Region 9**
+[My pieces for Mercado Popular](http://mercadopopular.org/author/davilyra/)
 
-  * 2nd Position, IEEE R9 Student Paper Contest (Electrical Engineering), 2011.
+[Miscellaneous publications on Medium (Portuguese and English)](https://medium.com/@davilyra)
