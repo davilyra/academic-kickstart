@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-My name is Davi Lyra-Leite, I am a PhD candidate at the Department of Biomedical Engineering at the University of Southern California and researcher with the Laboratory for Living Systems Engineering, working under Prof. Megan McCain, PhD. I am also a Health, Technology and Engineering student, a program that aims to foster collaboration between professionals between healthcare related fields and professionals to promote innovation. Lastly, I am a senior researcher at Instituto Mercado Popular, a Brazilian think tank, where I work on healthcare policy.
+My name is Davi Lyra-Leite, I am a PhD candidate at the [Department of Biomedical Engineering](http://bme.usc.edu) at the University of Southern California and researcher with the Laboratory for Living Systems Engineering, working under Prof. Megan McCain, PhD. I am also a Health, Technology and Engineering student, a program that aims to foster collaboration between professionals between healthcare related fields and professionals to promote innovation. Lastly, I am a senior researcher at Instituto Mercado Popular, a Brazilian think tank, where I work on healthcare policy.
