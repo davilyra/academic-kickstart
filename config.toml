@@ -71,7 +71,7 @@ enableGitInfo = false
   office_hours = false
   phone = false
   skype = false
-  telegram = ""
+  telegram = false
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
