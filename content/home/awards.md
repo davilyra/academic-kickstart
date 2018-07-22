@@ -18,7 +18,7 @@ weight = 60
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 3
 
 # Filter by award type.
 # -1: Any
