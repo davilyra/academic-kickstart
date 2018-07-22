@@ -26,21 +26,7 @@ publication = "In Cellular and Molecular Bioengineering"
 publication_short = "In CMBE"
 
 # Abstract and optional shortened version.
-abstract = "*Introduction* 
-
-In the myocardium, rapid propagation of action potentials and subsequent calcium waves is critical for synchronizing the contraction of cardiac myocytes and maximizing cardiac output. In many pathological settings, diverse remodeling of the tissue microenvironment is correlated with arrhythmias and decreased cardiac output, but the precise impact of tissue remodeling on propagation is not completely understood. Our objective was to delineate how multiple features within the cardiac tissue microenvironment modulate propagation velocity.
-
-*Methods* 
-
-To recapitulate diverse myocardial tissue microenvironments, we engineered substrates with tunable elasticity, patterning, composition, and topography using two formulations of polydimethylsiloxane (PDMS) micropatterned with fibronectin and gelatin hydrogels with flat or micromolded features. We cultured neonatal rat ventricular myocytes on these substrates and quantified cell density, tissue alignment, and cell shape. We used a fluorescent calcium indicator, high-speed microscopy, and newly-developed analysis software to record and quantify calcium wave propagation velocity (CPV).
-
-*Results* 
-
-For all substrates, tissue alignment and cell aspect ratio were higher in aligned compared to isotropic tissues. Isotropic CPV and longitudinal CPV were similar across conditions, but transverse CPV was lower on micromolded gelatin hydrogels compared to micropatterned soft and stiff PDMS. In aligned tissues, the anisotropy ratio of CPV (longitudinal CPV/transverse CPV) was lower on micropatterned soft PDMS compared to micropatterned stiff PDMS and micromolded gelatin hydrogels.
-
-*Conclusion* 
-
-Propagation velocity in engineered cardiac tissues is sensitive to features in the tissue microenvironment, such as alignment, matrix elasticity, and matrix topography, which may underlie arrhythmias in conditions with pathological tissue remodeling."
+abstract = "*Introduction* In the myocardium, rapid propagation of action potentials and subsequent calcium waves is critical for synchronizing the contraction of cardiac myocytes and maximizing cardiac output. In many pathological settings, diverse remodeling of the tissue microenvironment is correlated with arrhythmias and decreased cardiac output, but the precise impact of tissue remodeling on propagation is not completely understood. Our objective was to delineate how multiple features within the cardiac tissue microenvironment modulate propagation velocity. *Methods* To recapitulate diverse myocardial tissue microenvironments, we engineered substrates with tunable elasticity, patterning, composition, and topography using two formulations of polydimethylsiloxane (PDMS) micropatterned with fibronectin and gelatin hydrogels with flat or micromolded features. We cultured neonatal rat ventricular myocytes on these substrates and quantified cell density, tissue alignment, and cell shape. We used a fluorescent calcium indicator, high-speed microscopy, and newly-developed analysis software to record and quantify calcium wave propagation velocity (CPV). *Results* For all substrates, tissue alignment and cell aspect ratio were higher in aligned compared to isotropic tissues. Isotropic CPV and longitudinal CPV were similar across conditions, but transverse CPV was lower on micromolded gelatin hydrogels compared to micropatterned soft and stiff PDMS. In aligned tissues, the anisotropy ratio of CPV (longitudinal CPV/transverse CPV) was lower on micropatterned soft PDMS compared to micropatterned stiff PDMS and micromolded gelatin hydrogels. *Conclusion* Propagation velocity in engineered cardiac tissues is sensitive to features in the tissue microenvironment, such as alignment, matrix elasticity, and matrix topography, which may underlie arrhythmias in conditions with pathological tissue remodeling."
 abstract_short = false
 
 # Featured image thumbnail (optional)

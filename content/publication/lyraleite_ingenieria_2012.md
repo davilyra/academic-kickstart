@@ -29,9 +29,7 @@ publication = "In Revista Ingeniería"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The reconstruction of magnetic resonance imaging (MRI) data can be a computationally demanding task. Signal-to-noise ratio is also a concern, especially in high-resolution imaging. Data compression may be useful not only for reducing reconstruction complexity and memory requirements, but also for reducing noise, as it is capable of eliminating spurious components.
-
-This work proposes the use of a singular value decomposition low-rank approximation for reconstruction and denoising of MRI data. The Akaike Information Criterion is used to estimate the appropriate model order, which is used to remove noise components and to reduce the amount of data to be stored and processed. The proposed method is evaluated using in vivo MRI data. We present images reconstructed using less than 20% of the original data size, and with a similar quality in terms of visual inspection. A quantitative evaluation is also presented."
+abstract = "The reconstruction of magnetic resonance imaging (MRI) data can be a computationally demanding task. Signal-to-noise ratio is also a concern, especially in high-resolution imaging. Data compression may be useful not only for reducing reconstruction complexity and memory requirements, but also for reducing noise, as it is capable of eliminating spurious components. This work proposes the use of a singular value decomposition low-rank approximation for reconstruction and denoising of MRI data. The Akaike Information Criterion is used to estimate the appropriate model order, which is used to remove noise components and to reduce the amount of data to be stored and processed. The proposed method is evaluated using in vivo MRI data. We present images reconstructed using less than 20% of the original data size, and with a similar quality in terms of visual inspection. A quantitative evaluation is also presented."
 abstract_short = false
 
 # Featured image thumbnail (optional)
