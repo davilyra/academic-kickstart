@@ -208,6 +208,18 @@ enableGitInfo = false
     #   3 = MLA
     publication_format = 3
 
+
+  # Award types -- by DLL
+  awards_types = [
+    'Uncategorized',  # 0
+    'International',  # 1
+    'National',  # 2
+    'University wide',  # 3
+    'Department wide',  # 4
+  ]
+
+
+
   # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:

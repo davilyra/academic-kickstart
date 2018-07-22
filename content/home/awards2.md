@@ -13,26 +13,11 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
-# Number of awards to list.
-count = 5
-
 # List format.
 #   0 = Simple
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 0
 
-# Filter by award type.
-# -1: Any
-#  0: Uncategorized
-#  1: International
-#  2: National
-#  3: University wide
-#  4: Department wide
-
-awards_type = "-1"
-
-# Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
 +++

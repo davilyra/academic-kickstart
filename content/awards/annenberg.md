@@ -5,7 +5,7 @@ math = false
 highlight = false
 
 # Date first published.
-date = "2012"
+date = "2012-08-01"
 
 # Award type.
 # Legend:
@@ -18,7 +18,7 @@ award_types = ["3"]
 
 # Publication name and optional abbreviated version.
 award = "USC Graduate School"
-publication_short = "In AJP Heart"
+publication_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
