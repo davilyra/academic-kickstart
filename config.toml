@@ -185,10 +185,10 @@ enableGitInfo = false
     'Book section'  # 6
   ]
 
-  # Configuration of talk pages.
-  [params.talks]
-    # Show talk time?
-    time = true
+#  # Configuration of talk pages.
+#  [params.talks]
+#    # Show talk time?
+#    time = true
 
   # Configuration of publication pages.
   [params.publications]
@@ -308,11 +308,11 @@ enableGitInfo = false
 #    url = "files/cv.pdf"
 #    weight = 7
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+## Taxonomies.
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
