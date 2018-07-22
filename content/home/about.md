@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Biomedical Engineering"
   institution = "University of Southern California"
-  year = Present
+  year = "2015 to Present"
 
 [[education.courses]]
   course = "MEng in Electrical Engineering"
