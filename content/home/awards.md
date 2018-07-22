@@ -13,6 +13,9 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+# Number of awards to list.
+count = 5
+
 # List format.
 #   0 = Simple
 #   1 = Detailed
@@ -30,5 +33,6 @@ list_format = 3
 
 awards_type = "-1"
 
-
+# Exclude publications that are shown in the Selected Publications widget?
+exclude_selected = false
 +++
