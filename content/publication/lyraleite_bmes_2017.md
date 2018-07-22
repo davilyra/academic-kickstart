@@ -8,7 +8,7 @@ math = false
 highlight = false
 
 # Date first published.
-date = "2017-10"
+date = "2017-10-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Davi M Lyra-Leite", "Allen M Andres", "Andrew P Petersen", "Nathan Cho", "Nethika R Ariyasinghe", "Jezell A Lee", "Roberta A Gottlieb", "Megan L McCain"]
