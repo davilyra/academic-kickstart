@@ -25,7 +25,7 @@ weight = 5
 [[education.courses]]
   course = "MEng in Electrical Engineering"
   institution = "University of Southern California"
-  year = "*2017*
+  year = "*2017*"
 
 [[education.courses]]
   course = "BSc in Electrical Engineering"
