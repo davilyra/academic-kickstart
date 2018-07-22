@@ -8,7 +8,7 @@ highlight = false
 date = "2018-06-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Nethika R Ariyasinghe*", "Davi M Lyra-Leite*", "Megan L McCain","*Contributed equally"]
+authors = ["Nethika R Ariyasinghe\*", "Davi M Lyra-Leite\*", "Megan L McCain","\*Contributed equally"]
 
 # Publication type.
 # Legend:
