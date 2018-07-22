@@ -23,6 +23,6 @@ date = "2012-08-01"
 
 **Dean of Research and Graduate Studies (DPP) of UnB**
 
-  * S[cientific Initiation Fellowship](http://proic.unb.br) (Reconstruction of Magnetic Resonance Images of Flow using Parallel Imaging II), 2011.
+  * [Scientific Initiation Fellowship](http://proic.unb.br) (Reconstruction of Magnetic Resonance Images of Flow using Parallel Imaging II), 2011.
   * Scientific Initiation Fellowship (Reconstruction of Magnetic Resonance Images of Flow using Parallel Imaging), 2010.
   * Scientific Initiation Fellowship (Color Constancy and Calibration of Optical Devices), 2009.
