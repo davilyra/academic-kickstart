@@ -185,10 +185,10 @@ enableGitInfo = false
     'Book section'  # 6
   ]
 
-#  # Configuration of talk pages.
-#  [params.talks]
-#    # Show talk time?
-#    time = true
+  # Configuration of talk pages.
+  [params.talks]
+    # Show talk time?
+    time = true
 
   # Configuration of publication pages.
   [params.publications]
