@@ -2,7 +2,7 @@
 title = "Engineering Cardiac Microphysiological Systems to Model Pathological Extracellular Matrix Remodeling"
 
 math = false
-highlight = false
+highlight = true
 
 # Date first published.
 date = "2018-06-15"
