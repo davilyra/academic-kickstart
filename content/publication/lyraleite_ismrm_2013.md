@@ -39,10 +39,10 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+projects = ["3dspirit"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://cds.ismrm.org/protected/13MProceedings/files/1352.PDF"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
