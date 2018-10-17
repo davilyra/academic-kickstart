@@ -42,7 +42,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://cds.ismrm.org/protected/12MProceedings/files/1189.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
