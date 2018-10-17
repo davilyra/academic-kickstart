@@ -45,7 +45,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://submissions.mirasmart.com/SecureView/BMESArchive/radp0ue3ipq.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
