@@ -22,3 +22,9 @@ date = "2012-08-01"
   * Brazilian Astronomy and Astronautics Olympiad, Gold Medal, 2006 and 2007.
   * Brazilian Astronomy and Astronautics Olympiad, Bronze Medal, 2005.
   * Brazilian Astronomy Olympiad, Gold Medal, 2004.
+
+**Brazilian Physics Society (SBF)**
+  * Brazilian Physics Olympiad, Bronze Medal, 2006.
+  
+**Brazilian Program of Chemistry Olympiads (OBQ)**
+  * Brazilian Chemistry Olympiad, Honorable Mention, 2006.
