@@ -28,5 +28,6 @@ Hangouts for Mercado Popular about the 2016 US Elections:
 {{< youtube ASNLjjX30IU >}}
 
 
+[Interview for Students for Liberty](https://www.studentsforliberty.org/entrevista-saude-davi-lyra-leite) (in Portuguese).
 
 
