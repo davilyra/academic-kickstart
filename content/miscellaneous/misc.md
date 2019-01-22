@@ -30,4 +30,5 @@ Hangouts for Mercado Popular about the 2016 US Elections:
 
 [Interview for Students for Liberty](https://www.studentsforliberty.org/entrevista-saude-davi-lyra-leite) (in Portuguese).
 
+[Interview about healthcare policy and Obamacare](https://soundcloud.com/user-297005397-731604756/o-obamacare-e-o-mercado-de-saude-com-davi-lyra-leite) (in Portuguese).
 
