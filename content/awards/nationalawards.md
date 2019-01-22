@@ -10,8 +10,8 @@ date = "2012-08-01"
 +++
 **Biomedical Engineering Society**
 
+  * CMBE Graduate Student Shooting Star Award, 2019.
   * BMES Career Development Award, 2018.
-
 
 **Americas Model United Nations (AMUN)**
 
