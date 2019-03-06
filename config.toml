@@ -233,10 +233,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:leite@usc.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/davilyra"
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "//twitter.com/davilyra"
 
   [[params.social]]
     icon = "google-scholar"
