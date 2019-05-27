@@ -12,6 +12,10 @@ date = "2012-08-01"
 
   * [Annenberg PhD Fellowship](http://graduateschool.usc.edu/fellowships/prospective-PhD-students/), 2012-16.
 
+**USC Viterbi School of Engineering**
+
+  * Jenny Wang Excellence in Teaching Award, 2019.
+
 **USC Biomedical Engineering Department**
 
   * Grodins Best Poster Award in the Cell/Tissue Engineering, 2018.
