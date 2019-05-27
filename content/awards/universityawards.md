@@ -14,7 +14,7 @@ date = "2012-08-01"
 
 **USC Viterbi School of Engineering**
 
-  * Jenny Wang Excellence in Teaching Award, 2019.
+  * [Jenny Wang Excellence in Teaching Award](https://viterbigrad.usc.edu/jenny-wang-excellence-in-teaching-award/), 2019.
 
 **USC Biomedical Engineering Department**
 
