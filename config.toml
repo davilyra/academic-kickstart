@@ -58,16 +58,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Davi Lyra-Leite"
-  role = "Ph.D. Candidate"
+  role = "Postdoctoral Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Southern California", url = "http://usc.edu" } ]
+  organizations = [ { name = "Northwestern University", url = "http://northwestern.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "leite@usc.edu"
-  address = "Department of Biomedical Engineering, University of Southern California, 1042 Downey Way, Los Angeles CA, 90089, USA"
+  email = "davi.leite@northwestern.edu"
+  address = "Department of Pharmacology, Northwestern University Feinberg School of Medicine, Chicago IL"
   office_hours = false
   phone = false
   skype = false
