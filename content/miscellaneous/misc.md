@@ -19,12 +19,12 @@ Op-eds for Brazilian newspapers (in Portuguese):
 
 [My pieces for Mercado Popular](http://mercadopopular.org/davilyra/) (in Portuguese).
 
-#Hangouts for Mercado Popular about the 2016 US Elections:
+Hangouts for Mercado Popular about the 2016 US Elections:
 
-#  * 27th September 2016
+* 27th September 2016
 #{{< youtube cSpxhyWQFos >}}
 
-#  * 30th August 2016
+* 30th August 2016
 #{{< youtube ASNLjjX30IU >}}
 
 
