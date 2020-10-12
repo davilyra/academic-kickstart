@@ -8,7 +8,7 @@ math = false
 highlight = false
 
 # Date first published.
-date = "2020-10-30"
+date = "2020-10-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Davi M Lyra-Leite", "Andrew P Petersen", "Nethika R Ariyasinghe", "Nathan Cho", "Megan L McCain"]
@@ -53,6 +53,6 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.jmmc-online.com/article/S0022-2828(20)30299-6/fulltext"
 
 +++
