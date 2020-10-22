@@ -33,7 +33,7 @@ abstract = "In ventricular myocardium, extracellular matrix (ECM) remodeling is 
 abstract_short = false
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "lyra-leite_actabiomaterialia_2019_ga.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
