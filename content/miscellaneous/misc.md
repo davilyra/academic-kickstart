@@ -26,4 +26,4 @@ Op-eds for Brazilian newspapers (in Portuguese):
 
 [Interview about healthcare policy and Obamacare](https://soundcloud.com/user-297005397-731604756/o-obamacare-e-o-mercado-de-saude-com-davi-lyra-leite) (in Portuguese).
 
-[Commentary on how freer markets allowed the development of COVID vaccines in record time](https://outline.com/4TWweF)
+[Commentary on how freer markets allowed the development of COVID vaccines in record time](https://outline.com/4TWweF) (in Portuguese).
