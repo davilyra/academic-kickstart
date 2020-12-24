@@ -12,6 +12,9 @@ Op-eds for Brazilian newspapers (in Portuguese):
 
   * [O que mudou e o que não mudou de fato com Trump na presidência](http://www.gazetadopovo.com.br/ideias/o-que-mudou-e-o-que-nao-mudou-de-fato-com-trump-na-presidencia-5ozilv7vn3ql9pnhko231h16x)
   * [Marina Silva usa informações erradas ao protestar contra o fim da Renca](https://www.poder360.com.br/opiniao/brasil/marina-silva-usa-informacoes-erradas-ao-protestar-contra-o-fim-da-renca/)
+  * [Pontos positivos do governo Trump](https://ideiasradicais.com.br/pontos-positivos-governo-trump/)
+  * [Pontos negativos do governo Trump](https://ideiasradicais.com.br/pontos-negativos-governo-trump/)
+  * [Pontos controversos do governo Trump](https://ideiasradicais.com.br/governo-donald-trump/)
 
 
 [Miscellaneous publications on Medium.com](https://medium.com/@davilyra) (Portuguese and English).
@@ -23,3 +26,4 @@ Op-eds for Brazilian newspapers (in Portuguese):
 
 [Interview about healthcare policy and Obamacare](https://soundcloud.com/user-297005397-731604756/o-obamacare-e-o-mercado-de-saude-com-davi-lyra-leite) (in Portuguese).
 
+[Commentary on how freer markets allowed the development of COVID vaccines in record time](https://outline.com/4TWweF)
