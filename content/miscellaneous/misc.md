@@ -8,7 +8,7 @@ highlight = false
 date = "2012-08-01"
 
 +++
-[Interview about vaccine technologies and development](https://www.tce.sp.gov.br/6524-pesquisador-explica-sobre-criacao-vacinas-podcast-tce) (in Portuguese).
+[Interview about vaccine technologies and scientific research](https://www.tce.sp.gov.br/6524-pesquisador-explica-sobre-criacao-vacinas-podcast-tce) (in Portuguese).
 
 [Commentary on how freer markets allowed the development of COVID vaccines in record time](https://outline.com/4TWweF) (in Portuguese).
 
