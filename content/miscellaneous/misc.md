@@ -8,6 +8,16 @@ highlight = false
 date = "2012-08-01"
 
 +++
+[Interview about vaccine technologies and development](https://www.tce.sp.gov.br/6524-pesquisador-explica-sobre-criacao-vacinas-podcast-tce) (in Portuguese).
+
+[Commentary on how freer markets allowed the development of COVID vaccines in record time](https://outline.com/4TWweF) (in Portuguese).
+
+[Video discussion about ICUs, COVID, and management of diseases](https://www.youtube.com/watch?v=yZa7LhB2ChI) (in Portuguese).
+
+[Interview for Students for Liberty](https://www.studentsforliberty.org/entrevista-saude-davi-lyra-leite) (in Portuguese).
+
+[Interview about healthcare policy and Obamacare](https://soundcloud.com/user-297005397-731604756/o-obamacare-e-o-mercado-de-saude-com-davi-lyra-leite) (in Portuguese).
+
 Op-eds for Brazilian newspapers (in Portuguese):
 
   * [O que mudou e o que não mudou de fato com Trump na presidência](http://www.gazetadopovo.com.br/ideias/o-que-mudou-e-o-que-nao-mudou-de-fato-com-trump-na-presidencia-5ozilv7vn3ql9pnhko231h16x)
@@ -19,13 +29,4 @@ Op-eds for Brazilian newspapers (in Portuguese):
 
 [Miscellaneous publications on Medium.com](https://medium.com/@davilyra) (Portuguese and English).
 
-
 [My pieces for Mercado Popular](http://mercadopopular.org/davilyra/) (in Portuguese).
-
-[Interview for Students for Liberty](https://www.studentsforliberty.org/entrevista-saude-davi-lyra-leite) (in Portuguese).
-
-[Interview about healthcare policy and Obamacare](https://soundcloud.com/user-297005397-731604756/o-obamacare-e-o-mercado-de-saude-com-davi-lyra-leite) (in Portuguese).
-
-[Commentary on how freer markets allowed the development of COVID vaccines in record time](https://outline.com/4TWweF) (in Portuguese).
-
-[Video discussion about ICUs, COVID, and management of diseases](https://www.youtube.com/watch?v=yZa7LhB2ChI) (in Portuguese).
