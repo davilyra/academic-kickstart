@@ -1,5 +1,5 @@
 +++
-# Vol 2, Issue 1, pages 32-43, 2021
+# Vol 28, Issue 12, pages 2076-2089.e7, 2021
 
 
 title = "RARG variant predictive of doxorubicin-induced cardiotoxicity identifies a cardioprotective therapy"
@@ -8,7 +8,7 @@ math = false
 highlight = false
 
 # Date first published.
-date = "2021-09-15"
+date = "2021-12-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Tarek Magdy", "Zhengxin Jiang", "Mariam Jouni", "Hananeh Fonoudi", "Davi M Lyra-Leite", "Gwanghyun Jung", "Marisol Romero-Tejeda", "Hui-Hsuan Kuo", "K. Ashley Fetterman", "Mennat Gharib", "Brian T Burmeister", "Mingming Zhao", "Yadav Sapkota", "Colin J Ross", "Bruce C Carleton", "Daniel Bernstein", "Paul W Burridge"]
