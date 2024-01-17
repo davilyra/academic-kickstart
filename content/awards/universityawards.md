@@ -8,6 +8,10 @@ highlight = false
 date = "2012-08-01"
 
 +++
+**Northwestern University Pharmacology Department**
+
+  * Pharmacology Retreat Best Poster Award, 2nd Place, 2023.
+
 **USC Graduate School**
 
   * [Annenberg PhD Fellowship](http://graduateschool.usc.edu/fellowships/prospective-PhD-students/), 2012-16.
