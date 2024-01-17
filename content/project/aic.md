@@ -30,4 +30,4 @@ caption = ""
 
 Between 2 and 30% of patients treated with anticancer therapies migh develop some type of cardiotoxic side effects. They range from reversible arrhythmias to overt heart failure and can compromise patient's standard of living, effectiveness of therapies, and the deployment of therapeutic interventions for different types of tumors.
 
-In order to understand the mechanisms behind these side effects, I am using hiPSC-CMs to elucidate metabolic and structural responses to these anticancer treatments in control and patient derived lines. Additionally, I am studying potential strategies to recover or protect cardiomyocytes from off-target effects from anticancer therapies.
+In order to understand the mechanisms behind these side effects, I used hiPSC-CMs to elucidate metabolic and structural responses to these anticancer treatments in control and patient derived lines. Additionally, I studied potential strategies to recover or protect cardiomyocytes from off-target effects from anticancer therapies.
