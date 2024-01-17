@@ -36,7 +36,7 @@ abstract_short = false
 # image_preview = "lyra-leite_starprotocols_2021.png"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
