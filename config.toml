@@ -58,16 +58,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Davi Lyra-Leite"
-  role = "Postdoctoral Fellow"
+  role = "Principal Investigator"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Northwestern University", url = "http://northwestern.edu" } ]
+  organizations = [ { name = "Clever Carnivore", url = "https://www.clevercarnivore.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "davi.leite@northwestern.edu"
-  address = "Department of Pharmacology, Northwestern University Feinberg School of Medicine, Chicago IL"
+  email = "davi@clevercarnivore.com"
+  address = "Clever Carnivore, Chicago IL"
   office_hours = false
   phone = false
   skype = false
@@ -101,8 +101,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "34.021539"
-  longitude = "-118.290939"
+  latitude = "41.8781"
+  longitude = "-87.6298"
   zoom = 17.5
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -231,7 +231,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:davi.leite@northwestern.edu"
+    link = "mailto:davi@clevercarnivore.com"
 
 #  [[params.social]]
 #    icon = "twitter"
