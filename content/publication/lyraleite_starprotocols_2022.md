@@ -2,7 +2,7 @@
 # Vol 3, Issue 3, pages 101560-294, 2022
 
 
-title = "Identification of Drug Transporter Genomic Variants and Inhibitors That Protect Against Doxorubicin-Induced Cardiotoxicity"
+title = "A review of protocols for human iPSC culture, cardiac differentiation, subtype-specification, maturation, and direct reprogramming"
 
 math = false
 highlight = false
@@ -33,7 +33,7 @@ abstract = "The methods for the culture and cardiomyocyte differentiation of hum
 abstract_short = false
 
 # Featured image thumbnail (optional)
-# image_preview = "lyraleite_starprotocols_2022.jpg"
+image_preview = "lyraleite_starprotocols_2022.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
