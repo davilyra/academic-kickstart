@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["hiPSC-CM", "Trastuzumab", "Cardiotoxicity", "Pharmacology"]
+tags = ["hiPSC-CM", "Trastuzumab", "Cardiotoxicity", "Pharmacology","AIC"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,6 +28,6 @@ caption = ""
 
 +++
 
-Between 2 and 30% of patients treated with anticancer therapies migh develop some type of cardiotoxic side effects. They range from reversible arrhythmias to overt heart failure and can compromise patient's standard of living, effectiveness of therapies, and the deployment of therapeutic interventions for different types of tumors.
+Between 2 and 30% of patients treated with anticancer therapies, especially anthracyclines, migh develop some type of cardiotoxic side effects (AIC). They range from reversible arrhythmias to overt heart failure and can compromise patient's standard of living, effectiveness of therapies, and the deployment of therapeutic interventions for different types of tumors.
 
 In order to understand the mechanisms behind these side effects, I used hiPSC-CMs to elucidate metabolic and structural responses to these anticancer treatments in control and patient derived lines. Additionally, I studied potential strategies to recover or protect cardiomyocytes from off-target effects from anticancer therapies.
