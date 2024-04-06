@@ -25,8 +25,8 @@ authors = ["Hananeh Fonoudi", "Mariam Jouni", "Romina B. Cejas", "Tarek Magdy", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Cardio Oncology"
-publication_short = "In Cardio Onc"
+publication = "Journal American College of Cardiology: Cardio Oncology"
+publication_short = "In JACC CardioOnc"
 
 # Abstract and optional shortened version.
 abstract = "Background:
@@ -62,6 +62,6 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.sciencedirect.com/science/article/pii/S2213671123001820"
+url_source = "https://www.jacc.org/doi/abs/10.1016/j.jaccao.2023.11.008"
 
 +++
