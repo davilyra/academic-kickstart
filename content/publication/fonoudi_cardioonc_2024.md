@@ -33,7 +33,7 @@ abstract = "Background: Genome-wide association studies and candidate gene assoc
 
 abstract_short = false
 
-Featured image thumbnail (optional)
+# Featured image thumbnail (optional)
 image_preview = "fonoudi_cardioonc_2024.jpeg"
 
 # Is this a selected publication? (true/false)
