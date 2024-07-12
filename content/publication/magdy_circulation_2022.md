@@ -36,7 +36,7 @@ abstract_short = false
 # image_preview = "magdy_cellstemcell_2021ga.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
