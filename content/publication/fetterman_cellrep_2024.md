@@ -1,4 +1,6 @@
 +++
+# Vol 43, Issue 5, pages 114160, 2024
+
 title = "Independent compartmentalization of functional, metabolic, and transcriptional maturation of hiPSC-derived cardiomyocytes"
 
 math = false
