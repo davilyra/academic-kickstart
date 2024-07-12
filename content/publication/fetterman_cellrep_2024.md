@@ -8,7 +8,7 @@ highlight = true
 date = "2024-05-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["K. Ashley Fetterman", "Malorie Blancard", "Davi M Lyra-Leite", "Carlos G. Vanoye", "Hananeh Fonoudi", "Mariam Jouni", "Jean-Marc L. DeKeyser", "Brian Lenny", "Yadav Sapkota", "Alfred L. George Jr", "Paul W. Burridge"]
+authors = ["K. Ashley Fetterman", "Malorie Blancard", "Davi M. Lyra-Leite", "Carlos G. Vanoye", "Hananeh Fonoudi", "Mariam Jouni", "Jean-Marc L. DeKeyser", "Brian Lenny", "Yadav Sapkota", "Alfred L. George Jr", "Paul W. Burridge"]
 
 # Publication type.
 # Legend:
@@ -33,7 +33,7 @@ abstract_short = false
 image_preview = "fetterman_cellrep_2024.jpg"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
