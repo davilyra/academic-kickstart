@@ -1,5 +1,5 @@
 +++
-# Vol 13, pages RP95867, 2024
+# Vol 13, pages RP95867, 2024.
 
 title = "Independent compartmentalization of functional, metabolic, and transcriptional maturation of hiPSC-derived cardiomyocytes"
 
@@ -32,7 +32,7 @@ abstract = "Heart failure with preserved ejection fraction (HFpEF) is commonly f
 abstract_short = false
 
 # Featured image thumbnail (optional)
-# image_preview = "fetterman_cellrep_2024.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = false
