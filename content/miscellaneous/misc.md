@@ -14,7 +14,7 @@ date = "2012-08-01"
 
 [Video discussion about ICUs, COVID, and management of diseases](https://www.youtube.com/watch?v=yZa7LhB2ChI) (in Portuguese).
 
-[Interview for Students for Liberty](https://www.studentsforliberty.org/entrevista-saude-davi-lyra-leite) (in Portuguese).
+[Interview for Students for Liberty](https://studentsforliberty.org/brazil/blog/entrevista-geanluca-lorenzon/) (in Portuguese).
 
 [Interview about healthcare policy and Obamacare](https://soundcloud.com/user-297005397-731604756/o-obamacare-e-o-mercado-de-saude-com-davi-lyra-leite) (in Portuguese).
 
@@ -30,3 +30,5 @@ Op-eds for Brazilian newspapers (in Portuguese):
 [Miscellaneous publications on Medium.com](https://medium.com/@davilyra) (Portuguese and English).
 
 [My pieces for Mercado Popular](http://mercadopopular.org/davilyra/) (in Portuguese).
+
+[IFL Talk on stem cells and public policy](/static/pdf/lyraleite_ifl_talk_20250224.pdf) (in Portuguese).
