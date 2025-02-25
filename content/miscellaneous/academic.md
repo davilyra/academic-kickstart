@@ -8,7 +8,7 @@ highlight = false
 date = "2012-08-01"
 
 +++
-[Introductory MATLAB Course](/static/pdf/lyraleite_sbieeeunb_matlab_2012.pdf) (in Portuguese) class material of the course ministered at the University of Brasília, for the IEEE UnB Student Branch in June 2012.
+[Introductory MATLAB Course](lyraleite_sbieeeunb_matlab_2012.pdf) (in Portuguese) class material of the course ministered at the University of Brasília, for the IEEE UnB Student Branch in June 2012.
 Acknowledgements: Professors [Marcus Chaffim](https://fga.unb.br/marcus.chaffim) and [Alexandre Zaghetto](http://alexandre.zaghetto.com), from whom I borrowed the majority of the examples provided in the slides.
 
 
