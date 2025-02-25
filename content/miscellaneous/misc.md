@@ -10,7 +10,7 @@ date = "2012-08-01"
 +++
 [Interview about vaccine technologies and scientific research](https://www.tce.sp.gov.br/6524-pesquisador-explica-sobre-criacao-vacinas-podcast-tce) (in Portuguese).
 
-[Commentary on how freer markets allowed the development of COVID vaccines in record time](https://outline.com/4TWweF) (in Portuguese).
+[Commentary on how freer markets allowed the development of COVID vaccines in record time](https://www.gazetadopovo.com.br/ideias/como-o-capitalismo-permitiu-que-tivessemos-uma-vacina-em-tempo-recorde/) (in Portuguese).
 
 [Video discussion about ICUs, COVID, and management of diseases](https://www.youtube.com/watch?v=yZa7LhB2ChI) (in Portuguese).
 
@@ -22,9 +22,9 @@ Op-eds for Brazilian newspapers (in Portuguese):
 
   * [O que mudou e o que não mudou de fato com Trump na presidência](http://www.gazetadopovo.com.br/ideias/o-que-mudou-e-o-que-nao-mudou-de-fato-com-trump-na-presidencia-5ozilv7vn3ql9pnhko231h16x)
   * [Marina Silva usa informações erradas ao protestar contra o fim da Renca](https://www.poder360.com.br/opiniao/brasil/marina-silva-usa-informacoes-erradas-ao-protestar-contra-o-fim-da-renca/)
-  * [Pontos positivos do governo Trump](https://ideiasradicais.com.br/pontos-positivos-governo-trump/)
-  * [Pontos negativos do governo Trump](https://ideiasradicais.com.br/pontos-negativos-governo-trump/)
-  * [Pontos controversos do governo Trump](https://ideiasradicais.com.br/governo-donald-trump/)
+  * [Pontos positivos do governo Trump](https://web.archive.org/web/20220524181737/https://ideiasradicais.com.br/pontos-positivos-governo-trump/)
+  * [Pontos negativos do governo Trump](https://web.archive.org/web/20220524175327/https://ideiasradicais.com.br/pontos-negativos-governo-trump/)
+  * [Pontos controversos do governo Trump](https://web.archive.org/web/20220121233045/https://ideiasradicais.com.br/governo-donald-trump/)
 
 
 [Miscellaneous publications on Medium.com](https://medium.com/@davilyra) (Portuguese and English).
