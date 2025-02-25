@@ -31,4 +31,4 @@ Op-eds for Brazilian newspapers (in Portuguese):
 
 [My pieces for Mercado Popular](http://mercadopopular.org/davilyra/) (in Portuguese).
 
-[IFL Talk on stem cells and public policy](/static/pdf/lyraleite_ifl_talk_20250224.pdf) (in Portuguese).
+[IFL Talk on stem cells and public policy](https://drive.google.com/file/d/1KXGMpeq3PZv7RPHO0cK8yEyPwn9x_KPY/view?usp=sharing) (in Portuguese).
