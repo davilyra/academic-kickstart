@@ -10,7 +10,7 @@ date = "2012-08-01"
 +++
 **American Heart Association**
 
-  *BCVS Cardiovascular Outreach Award, 2022.
+  * BCVS Cardiovascular Outreach Award, 2022.
   * [Postdoctoral Fellowship](https://professional.heart.org/en/research-programs/application-information/postdoctoral-fellowship), 2021-23.
 
 **Biomedical Engineering Society**
