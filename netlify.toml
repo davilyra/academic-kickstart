@@ -1,4 +1,5 @@
 [build]
+  command = "git submodule update --init --recursive && hugo"
   publish = "public"
   command = "hugo"
 
